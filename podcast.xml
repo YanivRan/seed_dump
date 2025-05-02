@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BoroughHub</title>
+    <link>https://boroughhub.by.lindo.agency</link>
+    <description>AI voices uncover the soul of your borough.</description>
+    <language>en-CA</language>
+    <item>
+      <title>Episode 1: Welcome to BoroughHub</title>
+      <description>Introduction to the BoroughHub podcast.</description>
+      <pubDate>Thu, 01 May 2025 10:00:00 -0700</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&id=1GCct9dmXWQ0SZJie0J0_4acCSRwOLj0V"
+                 length="12345678"
+                 type="audio/mpeg"/>
+      <guid>https://docs.google.com/uc?export=download&id=1GCct9dmXWQ0SZJie0J0_4acCSRwOLj0V</guid>
+    </item>
+  </channel>
+</rss>
